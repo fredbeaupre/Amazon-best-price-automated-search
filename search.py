@@ -1,6 +1,6 @@
 import time
 from selenium.webdriver.common.keys import Keys
-from amazon_config import (
+from config import (
     get_web_driver_options,
     get_chrome_web_driver,
     set_ignore_certificate_error,
